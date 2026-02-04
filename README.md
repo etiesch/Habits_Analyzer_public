@@ -2,6 +2,8 @@
 
 A comprehensive data analysis tool for tracking and visualizing personal habits using data exported from the [uHabits](https://github.com/iSoron/uhabits) mobile application.
 
+![dendrogram](dendrogram.png)
+
 ## Overview
 
 This project analyzes habit tracking data with the following capabilities:
