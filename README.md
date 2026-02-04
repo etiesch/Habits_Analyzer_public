@@ -121,7 +121,7 @@ The input CSV file should contain:
 ### Value Encoding
 
 - `2`: Habit completed (checked)
-- `1`, `0`, `-1`: Habit not completed (unchecked)
+- `1`, `0`: Habit not completed (unchecked)
 - `-1`: Missing value (converted to NaN)
 
 ## Output
